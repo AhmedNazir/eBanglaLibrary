@@ -1,0 +1,88 @@
+.cover-book-title {
+    text-align: center;
+    text-indent: 0em;
+}
+
+.cover-writer-title {
+    text-align: center;
+    font-weight: bold;
+    text-indent: 0em;
+}
+
+.more-book-link {
+    text-align: center;
+    font-weight: bold;
+    text-indent: 0em;
+}
+
+.acknowledgement-text {
+    text-align: center;
+    font-weight: bold;
+    text-indent: 0em;
+}
+
+.acknowledgement-link {
+    text-align: center;
+    text-indent: 0em;
+}
+
+.chapter {
+    color: darkblue;
+    text-align: center;
+    text-indent: 0em;
+}
+
+hr {
+    height: 3px;
+    background-color: blue;
+    text-indent: 0em;
+}
+
+p {
+    color: black;
+    margin-top: 0;
+    margin-right: 5px;
+    margin-bottom: 0;
+    margin-left: 5px;
+    text-align: justify;
+    text-indent: 2em;
+}
+
+.finish {
+    font-size: 40px;
+    text-align: center;
+    text-indent: 0em;
+}
+
+.right {
+    text-align: right;
+}
+
+.center {
+    text-align: center;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.black {
+    color: black;
+}
+
+.darkblue {
+    color: darkblue;
+}
+
+.book-title{
+    font-size: 16px;
+    text-align: center;
+}
+
+.hh1{
+    font-size: 2em;
+}
