@@ -1,7 +1,8 @@
 ![ScreenShot](https://raw.githubusercontent.com/AhmedNazir/eBanglaLibrary/main/test/ss.png)
 
 # book_url
-**eBanglalibrary.com থেকে বইয়ের লিংক দিন এই বক্সে। লিংক ছাড়া eBook বানানো সম্ভব না।**
+**[eBanglaLibrary ](https://eBanglaLibrary.com)
+ থেকে বইয়ের লিংক দিন এই বক্সে। লিংক ছাড়া eBook বানানো সম্ভব না।**
 
 
 # book_name
