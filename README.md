@@ -1,8 +1,8 @@
 ![ScreenShot](https://raw.githubusercontent.com/AhmedNazir/eBanglaLibrary/main/test/ss.png)
 .
-# book_url
+# first_chapter_url
 **[eBanglaLibrary ](https://eBanglaLibrary.com)
- থেকে বইয়ের লিংক দিন এই বক্সে। লিংক ছাড়া eBook বানানো সম্ভব না।**
+ থেকে বইয়ের প্রথম অধ্যায়ের লিংক দিন এই বক্সে। লিংক ছাড়া eBook বানানো সম্ভব না।**
 
 
 # book_name
@@ -20,4 +20,4 @@
 # Google Colab
 **Google Colab এর সাহায্যে মোবাইল বা কম্পিউটারে কোন কিছু install ছাড়াই EPUB বানানো সম্ভব।**
 
-**[Google Colab ](https://colab.research.google.com/drive/12BRjft5hmCrQBJQtfZxWm8BjksiQCX_u?usp=sharing)**
+**[Google Colab ](https://colab.research.google.com/drive/1FQIzOfdFqdF8-ow2ry6T9spArP281Roq?usp=sharing)**
